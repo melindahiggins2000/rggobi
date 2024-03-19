@@ -21,7 +21,7 @@
     @nosubgrouping
 */  /*(for doxygen)*/
 
-#include <gtk/gtk.h>
+#include "gtk.h"
 #include "ggobi.h"
 #include "defines.h"
 #include "display.h"
