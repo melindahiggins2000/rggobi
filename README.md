@@ -1,5 +1,9 @@
 # rggobi
 
+# mkh - try this
+library(devtools)
+install_github("melindahiggins2000/rggobi")
+
 ## Building from source
 
 For a fresh checkout, you'll need to run
